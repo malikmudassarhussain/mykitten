@@ -1,0 +1,16 @@
+PODS:
+  - mobile (1.0)
+
+DEPENDENCIES:
+  - mobile (from `../mobile`)
+
+EXTERNAL SOURCES:
+  mobile:
+    :path: "../mobile"
+
+SPEC CHECKSUMS:
+  mobile: 1eec74996489dc23b6198387cbcd965d6884d6cd
+
+PODFILE CHECKSUM: 2babddbd392a8b2134e19c0821eaed9256d14a47
+
+COCOAPODS: 1.11.3
